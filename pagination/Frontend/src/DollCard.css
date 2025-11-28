@@ -1,0 +1,9 @@
+.dollCard {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 128px;
+    min-height: 128px;
+    padding: 0.5rem;
+    border: 1px solid deeppink;
+}

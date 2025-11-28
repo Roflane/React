@@ -1,0 +1,18 @@
+body {
+    margin: 1rem;
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+}
+
+
+#dollContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#dollContainerWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}

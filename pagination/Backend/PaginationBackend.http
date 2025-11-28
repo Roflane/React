@@ -1,0 +1,6 @@
+@PaginationBackend_HostAddress = http://localhost:5102
+
+GET {{PaginationBackend_HostAddress}}/dolls?start=10&count=5
+Accept: application/json
+
+###
