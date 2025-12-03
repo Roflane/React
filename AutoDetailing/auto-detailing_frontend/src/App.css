@@ -1,0 +1,17 @@
+body {
+    margin: 1rem;
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+}
+
+#carContainerWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#carContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
